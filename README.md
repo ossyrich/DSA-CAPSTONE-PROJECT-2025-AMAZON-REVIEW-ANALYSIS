@@ -38,3 +38,8 @@ The analysis aimed to determine answers to the following question;
 12. How many products have fewer than 1,000 reviews?
 13. Which categories have products with the highest discounts?
 14. Identify the top 5 products in terms of rating and number of reviews combined.
+
+# Data cleaning
+Part of the data cleaning involved deleting blank spaces, as these contained incomplete
+product and customer information, which may impact the analysis results.
+This process led to a total of 1298 rows and 17 columns.
